@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mrbnf/Documents/myapp/SupplyChain/supplychain/build/image_cropper/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_angle.png",
+        "source": "/home/mrbnf/.gradle/caches/transforms-2/files-2.1/05a2c1d41d869bfbf3e1acdef4ee369e/jetified-ucrop-2.2.8/res/drawable-ldpi-v4/ucrop_ic_angle.png"
+    },
+    {
+        "merged": "/home/mrbnf/Documents/myapp/SupplyChain/supplychain/build/image_cropper/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_done.png",
+        "source": "/home/mrbnf/.gradle/caches/transforms-2/files-2.1/05a2c1d41d869bfbf3e1acdef4ee369e/jetified-ucrop-2.2.8/res/drawable-ldpi-v4/ucrop_ic_done.png"
+    }
+]

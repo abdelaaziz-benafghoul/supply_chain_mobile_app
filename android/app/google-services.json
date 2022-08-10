@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51297574319",
+    "project_id": "supplychain-c7420",
+    "storage_bucket": "supplychain-c7420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51297574319:android:b67cce219580d2c521e35a",
+        "android_client_info": {
+          "package_name": "com.example.supplychain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51297574319-0d2bcuf80rot118ci1jsru3cdumu8h9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnosw5BXFPUIkYoM_kJHhKLGG_8JxxIsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51297574319-0d2bcuf80rot118ci1jsru3cdumu8h9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
